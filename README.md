@@ -15,6 +15,9 @@ Retourne les cartes deux par deux et retrouve toutes les **paires de joueurs de 
 - Gestion d’événements clavier/souris
 - Logique de jeu : aléatoire, timer, vérification de paires, comptage de clics
 
+
+## 💥Voici un aperçu du jeu 
+
 ![Aperçu du jeu 1](images/jeu1.png)
 
 ![Aperçu du jeu 2](images/jeu2.png)
