@@ -1,14 +1,19 @@
-# memory_python
+# 🧠 Memory - Jeu de Memory en Python
 
-Un petit jeu de memory réalisé en Python avec la librairie graphics.py pour le fun :)
+Bienvenue dans mon petit jeu de **Memory**, réalisé en **Python** avec la librairie **graphics.py** en mai 2024🎮  
+Ce projet a été conçu **pour le fun**, afin de m'exercer à la programmation événementielle et à la gestion graphique.
 
-## Jouer
+## 🎯 Objectif du jeu
 
-- Télécharger le projet
-- Lancer `python memory.py`
-- Amusez-vous à trouver toutes les paires de joueurs de football !
+Le but est simple :  
+Retourne les cartes deux par deux et retrouve toutes les **paires de joueurs de foot** ! ⚽
 
-## Aperçu
+## 🛠️ Technologies utilisées
+
+- Python 3
+- [graphics.py](http://mcsp.wartburg.edu/zelle/python/graphics.py) (librairie graphique simple)
+- Gestion d’événements clavier/souris
+- Logique de jeu : aléatoire, timer, vérification de paires, comptage de clics
 
 ![Aperçu du jeu 1](images/jeu1.png)
 
